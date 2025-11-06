@@ -1,6 +1,4 @@
-<div align="center">
 
-<img src="https://i.imgur.com/g02eJc9.png" alt="Scraper Banner" width="600"/>
 
 # 🕸️ Advanced Python Web Scraper 🕸️
 

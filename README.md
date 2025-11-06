@@ -10,11 +10,6 @@
 
 This isn't just another scraper. It's a robust utility designed to handle the modern web. Using **Playwright** for dynamic content rendering and **BeautifulSoup** for precise HTML parsing, this tool can archive websites, gather data, or create complete offline copies of online content.
 
----
-
-### 🎬 Demo in Action
-
-*(This is a placeholder for a GIF showing the scraper running in a terminal)*
 
 ---
 
